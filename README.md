@@ -1,12 +1,9 @@
-# Web3 Builder Journey
 
-This repository documents my progress in Web3 development, AI automation, and blockchain-based product building.
+This repository documents my progress AI automation product building.
 
 ## Focus Areas
 
-- Solidity and smart contract development
-- Base network projects
-- Wallet interaction and on-chain user flows
+-
 - n8n workflow automation
 - Obsidian-based learning notes
 - Claude Skills and AI tool systems
